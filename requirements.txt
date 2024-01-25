@@ -1,4 +1,5 @@
 pandas
 jupyter
 geopandas
-matplotlib
+plotly
+kaleido
